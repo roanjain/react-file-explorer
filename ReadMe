@@ -1,0 +1,17 @@
+Follow steps to start client and server 
+
+file-explorer-api: node server 
+Steps:
+1. npm i
+2. node app.js
+
+file-explorer:  react app
+Steps:
+npm i
+Npm i -D
+npm start
+	
+
+
+
+
